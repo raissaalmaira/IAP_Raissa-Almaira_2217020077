@@ -1,0 +1,32 @@
+[
+{
+    "nama" : "Raissa",
+    "umur" : 21,
+    "nim"  : "2217020077",
+    "lulus" : true,
+    "hobby": [
+        "membaca",
+        "mendengar musik"
+    ],
+    "pembimbing" : {
+        "pembimbing1" : "Jeon Wonwoo",
+        "pembimbing2" : "Park Chanyeol"
+    }
+
+},
+
+{
+    "nama" : "Raissa",
+    "umur" : 21,
+    "nim"  : "2217020077",
+    "lulus" : true,
+    "hobby": [
+        "membaca",
+        "mendengar musik"
+    ],
+    "pembimbing" : {
+        "pembimbing1" : "Jeon Wonwoo",
+        "pembimbing2" : "Park Chanyeol"
+    }
+}
+]
